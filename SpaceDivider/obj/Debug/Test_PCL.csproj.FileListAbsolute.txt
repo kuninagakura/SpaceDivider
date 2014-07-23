@@ -1,0 +1,27 @@
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Test_PCL.exe.config
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Test_PCL.exe
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Test_PCL.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.Imaging.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.Math.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\FlowMap.exe
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Microsoft.Kinect.Toolkit.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Microsoft.Kinect.Toolkit.Fusion.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Noise Removal.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Utilities.dll
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\FlowMap.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Noise Removal.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\Utilities.pdb
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.Imaging.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\bin\Debug\AForge.Math.xml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.csprojResolveAssemblyReference.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\MainWindow.baml
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\MainWindow.g.cs
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\App.g.cs
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL_MarkupCompile.cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.g.resources
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.Properties.Resources.resources
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.csproj.GenerateResource.Cache
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.exe
+C:\Users\computer\Documents\Visual Studio 2013\Projects\Test_PCL\Test_PCL\obj\Debug\Test_PCL.pdb

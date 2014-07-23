@@ -1,0 +1,38 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Test_PCL", "Test_PCL\Test_PCL.csproj", "{7EBB8B15-0A3C-4086-9978-5AE7564E74FF}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FlowMap", "..\THESIS\HeatMap\FlowMap.csproj", "{D62EEB42-3CA8-44E3-8341-E1692FB49E84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Noise Removal", "..\THESIS\Noise Removal\Noise Removal.csproj", "{093B2954-72BF-4CC8-B381-CE3EB842CB51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Utilities", "..\THESIS\Utilities\Utilities.csproj", "{AC939EC8-CF54-40AF-B74D-21CD1FC82959}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7EBB8B15-0A3C-4086-9978-5AE7564E74FF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7EBB8B15-0A3C-4086-9978-5AE7564E74FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7EBB8B15-0A3C-4086-9978-5AE7564E74FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7EBB8B15-0A3C-4086-9978-5AE7564E74FF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D62EEB42-3CA8-44E3-8341-E1692FB49E84}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D62EEB42-3CA8-44E3-8341-E1692FB49E84}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D62EEB42-3CA8-44E3-8341-E1692FB49E84}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D62EEB42-3CA8-44E3-8341-E1692FB49E84}.Release|Any CPU.Build.0 = Release|Any CPU
+		{093B2954-72BF-4CC8-B381-CE3EB842CB51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{093B2954-72BF-4CC8-B381-CE3EB842CB51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{093B2954-72BF-4CC8-B381-CE3EB842CB51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{093B2954-72BF-4CC8-B381-CE3EB842CB51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AC939EC8-CF54-40AF-B74D-21CD1FC82959}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AC939EC8-CF54-40AF-B74D-21CD1FC82959}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AC939EC8-CF54-40AF-B74D-21CD1FC82959}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AC939EC8-CF54-40AF-B74D-21CD1FC82959}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

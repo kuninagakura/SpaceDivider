@@ -1,0 +1,23 @@
+﻿<Window
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" mc:Ignorable="d" x:Name="mw" x:Class="Test_PCL.MainWindow"
+        Title="MainWindow" Height="835.555" Width="1369.319" Background ="AliceBlue" Loaded="Window_Loaded">
+    <Grid x:Name="mainGrid" Margin="0,0,-739,32" RenderTransformOrigin="0.486,0.477">
+        <Canvas x:Name="Canvas1" MouseRightButtonUp="Canvas1_MouseRightButtonUp" MouseRightButtonDown="Canvas1_MouseRightButtonDown"  MouseWheel="Canvas1_MouseWheel" MouseLeftButtonUp="Canvas1_MouseLeftButtonUp" MouseLeftButtonDown="Canvas1_MouseLeftButtonDown" HorizontalAlignment="Left" Height="375" Margin="29,30,0,0" VerticalAlignment="Top" Width="590" Background="Navy"/>
+        <Image x:Name="depthImage" MouseUp="layerImage_MouseDown_1" HorizontalAlignment="Left" Height="240" Margin="644,64,0,0" VerticalAlignment="Top" Width="340"/>
+        <Image x:Name="layerImage" MouseUp="layerImage_MouseDown_1" Opacity="100"  HorizontalAlignment="Left" Height="240" Margin="644,79,0,0" VerticalAlignment="Top" Width="340"/>
+        <TextBlock x:Name="Debug" FontSize="30" Background="White" HorizontalAlignment="Left" Margin="1069,484,0,0" TextWrapping="Wrap" Text="TextBlock" VerticalAlignment="Top" Height="48" Width="98"/>
+        <Grid x:Name="FirstPlane" Margin="658,314,1322,358">
+            <TextBox x:Name="test1" HorizontalAlignment="Left" Height="25" TextWrapping="Wrap" Text="-50,100" VerticalAlignment="Top" Width="98" Margin="0,7,0,0"  />
+            <TextBox x:Name="test2" HorizontalAlignment="Left" Height="25" Margin="0,35,0,0" TextWrapping="Wrap" Text="-50,-100" VerticalAlignment="Top" Width="98"/>
+
+            <ComboBox x:Name="colorPicker0"  HorizontalAlignment="Left" Margin="0,65,-12,0" VerticalAlignment="Top" Width="120"/>
+
+        </Grid>
+        <Button Click="Button_Click_1"  Content="Render Planes" HorizontalAlignment="Left" Margin="658,430,0,0" VerticalAlignment="Top" Width="75"/>
+        <Button Click="Button_Click" Content="Add New Plane" HorizontalAlignment="Left" Margin="658,457,0,0" VerticalAlignment="Top" Width="75"/>
+        <Image x:Name="spaceData" HorizontalAlignment="Left" Height="280" Margin="658,484,0,0" VerticalAlignment="Top" Width="177"/>
+
+    </Grid>
+</Window>
